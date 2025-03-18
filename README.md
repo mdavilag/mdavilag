@@ -4,10 +4,10 @@
 </div>
 
 <div align="center">
-  <p>Backend Developer always learning</p>
+  <p>Backend Developer always learning <br><i>"It's what you do in the DARK that puts you in the LIGHT"</i> </p>
 </div>
 
-## <div align="center"> ⚡ Technologies & Tools</div>
+## <div align="center"> ⚡ Tech & Tools </div>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" alt="C# logo"  />
@@ -26,7 +26,7 @@
   
 </div>
 
-## <div align="center"> 📊 Code Activity </div>
+## <div align="center"> 📈 My Coding Stats </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mdavilag&show_icons=true&theme=dracula&title_color=8951ce&icon_color=a964ff&bg_color=05070a&hide=issues,contribs&hide_border=true&rank_icon=github" />
@@ -41,12 +41,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdavilag&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## <div align="center"> 🤝 Connect </div>
+## <div align="center"> 🤝 Let's Connect </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/davilakina/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+</a>
 </div>
 
 <br>
