@@ -41,7 +41,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdavilag&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## <div align="center"> 🤝 Connect With Me</div>
+## <div align="center"> 🤝 Connect </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/davilakina/">
