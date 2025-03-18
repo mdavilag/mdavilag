@@ -21,16 +21,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40" alt="postman logo"  />
 </div>
 
-## <div align="center"> 📊 Activity Graph </div>
+## <div align="center"> 📊 Code Activity </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdavilag&bg_color=000000&color=ffffff&line=623697&point=444444&area=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdavilag&show_icons=true&theme=dracula&title_color=8951ce&icon_color=a964ff&bg_color=05070a&hide=issues,contribs&hide_border=true&rank_icon=github" />
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdavilag&bg_color=05070a&color=ffffff&line=623697&point=444444&area=true&hide_border=true" />
 </div>
 
 ## <div align="center"> 🔥 Code Streak </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdavilag&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdavilag&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## <div align="center"> 🤝 Connect With Me</div>
